@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      Deneme mesajıdır
+      Deneme mesajıdır123
     </div>
   );
 }
